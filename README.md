@@ -63,9 +63,9 @@ You will be prompted to enter the target URL, then choose the type of scan you w
 
 After the scan is complete, the results will be saved in a JSON file named scan_<target_domain>_<timestamp>.json and in the webhunter_scans.db database.
 
-License
+## License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 Contributing
 
